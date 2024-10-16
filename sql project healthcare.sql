@@ -1,7 +1,7 @@
 use etl1;
 select * from `healthcare`;
 
-#1.	Retrieve the names of all patients in the database. 
+#1.Retrieve the names of all patients in the database. 
 select name  from  `healthcare`;
 
 #2.	List the unique medical conditions present in the dataset.  
